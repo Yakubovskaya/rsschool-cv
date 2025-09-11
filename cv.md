@@ -41,3 +41,10 @@ const positiveSum = (arr) =>
     .filter((num) => num > 0)
     .reduce((sum, num) => sum + num, 0);
 ```
+
+## Projects
+* [Kekstagram](https://github.com/Yakubovskaya/2414391-kekstagram-2)  
+*Web service for uploading and viewing images*
+* [Brain Games](https://github.com/Yakubovskaya/brain-games?tab=readme-ov-file)  
+*A set of five console games. Each game asks questions that need to be answered correctly*
+
