@@ -48,3 +48,6 @@ const positiveSum = (arr) =>
 * [Brain Games](https://github.com/Yakubovskaya/brain-games?tab=readme-ov-file)  
 *A set of five console games. Each game asks questions that need to be answered correctly*
 
+## Education
+* [HTML Academy. JavaScript. Professional web interface development](https://htmlacademy.ru/intensive/javascript)
+* [RS School. JS/Front-end Course 2025Q3](https://rs.school/courses/javascript-ru)
