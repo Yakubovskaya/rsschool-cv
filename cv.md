@@ -20,3 +20,24 @@ I'm an open-minded, stress-resistant and results-oriented team player who values
 * Git
 * Bootstrap
 * Wordpress
+
+## Code Examples
+```
+const duplicateEncode = (word) => {
+  const sameLetters = {};
+  const letters = word.toLowerCase().split('');
+
+  letters.forEach(
+    (el) => sameLetters[el] = (sameLetters[el] || 0) + 1);
+
+  return letters
+    .map((el) => sameLetters[el] === 1 ? '(' : ')')
+    .join('');
+};
+```
+```
+const positiveSum = (arr) => 
+  arr
+    .filter((num) => num > 0)
+    .reduce((sum, num) => sum + num, 0);
+```
