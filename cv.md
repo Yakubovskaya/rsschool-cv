@@ -51,3 +51,6 @@ const positiveSum = (arr) =>
 ## Education
 * [HTML Academy. JavaScript. Professional web interface development](https://htmlacademy.ru/intensive/javascript)
 * [RS School. JS/Front-end Course 2025Q3](https://rs.school/courses/javascript-ru)
+
+## English
+Level: B1 (Intermediate)
